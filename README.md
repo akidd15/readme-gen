@@ -11,11 +11,11 @@
  ## Description
    This project creates a professional Readme file.
    ## Installation
-  Npm intall 
+  npm
   ## Usage
   In your terminal, enter in node index js and answer the prompt questions to generate your readme.
   ## Contributing
-  N/A
+  undefined
   ## Tests
   All test were ran inside the terminal.
   ## Questions
@@ -23,4 +23,3 @@
    email@email.com
   ## Dependancies
   inquirer
-

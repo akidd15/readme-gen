@@ -1,14 +1,10 @@
 {
-  "name": "readme-gen",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "readme-gen"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
